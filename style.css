@@ -295,19 +295,19 @@
 }
 
 #project-card1{
-    background-image: url(../Project1.png);
+    background-image: url(./Project1.png);
 }
 
 #project-card2{
-    background-image: url(../Project2.png);
+    background-image: url(./Project2.png);
 }
 
 #project-card3{
-    background-image: url(../Project3.png);
+    background-image: url(./Project3.png);
 }
 
 #project-card4{
-    background-image: url(../Project4.png);
+    background-image: url(./Project4.png);
 }
 
 .project-card::after{
